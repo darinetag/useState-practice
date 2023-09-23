@@ -3,11 +3,11 @@ import { useState } from "react";
 const Home = () => {
   // let name = 'Ella';
   const [name, setName] = useState ("Ella");
-  const [age, setAge] = useState (200)
+  const [age, setAge] = useState (23)
 
   const handleClick = () => {
     setName("Enchanted Ella");
-    setAge(1000);
+    setAge(2000);
   }
 
   return (
