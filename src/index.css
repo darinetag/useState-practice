@@ -15,7 +15,7 @@
   border-bottom: 1px solid #f2f2f2;
 }
 .navbar h1 {
-  color: #72a01e;
+  color: #8669a7;
 }
 .navbar .links {
   margin-left: auto;
@@ -26,7 +26,7 @@
   padding: 6px;
 }
 .navbar a:hover {
-  color: #72a01e;
+  color: #8669a7;
 }
 .content {
   max-width: 600px;
@@ -34,5 +34,5 @@
   padding: 20px;
 }
 .home h2 {
-  color: #72a01e;
+  color: #8669a7;
 }
